@@ -1,2 +1,3 @@
 git config --list
 git remote -v
+add
